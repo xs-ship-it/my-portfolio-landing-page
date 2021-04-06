@@ -1,0 +1,33 @@
+.important{color:blue;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{font-size:large;
+font-family: initial;
+background-color: 
+color;
+}
+
+h1{color:black;
+font-family:italic;
+}
+
+.test-box {
+border-left: 80px solid orangered;
+border-right: 80px solid orangered;
+border-top:80px solid orangered;
+border-bottom: 80px soid orangered;
+background-color: chartreuse;
+
+}
+
+
+
+
+
+ol{font-size: large;}
+
+.heading{color:blueviolet;
+  font-size:x-large;
+  font-weight: inherit;
+}
