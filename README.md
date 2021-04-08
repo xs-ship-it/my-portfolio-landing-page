@@ -1,4 +1,4 @@
-# xs-ship-it-1
+# my-portfolio-landing-page
 This project is a portfolio landing page. Languages used are HTML and Custom CSS. 
 ## Prerequisites
 Basic Git knowledge, including an installed version of Git.
